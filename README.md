@@ -1,5 +1,6 @@
 # **Real-Time Emotion Detection using FER2013**
-This project implements real-time emotion detection using a Convolutional Neural Network (CNN) trained on the FER2013 dataset. It utilizes OpenCV for face detection and TensorFlow/Keras for emotion classification.
+This project implements real-time emotion detection using a Convolutional Neural Network (CNN) trained on the FER2013 dataset. It utilizes OpenCV for face detection and TensorFlow/Keras for emotion classification.  
+*_Frontend is under development._
 
 ## 📌 Features
 ### ✔️ Trained on FER2013 dataset (7 emotion classes: Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral)
